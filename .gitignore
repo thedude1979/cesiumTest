@@ -1,3 +1,15 @@
+#project directories
+bower_components/*
+node_modules/*
+public/*
+src/*
+#public/css/*
+#public/fonts/*
+#public/images/*
+#public/js/*
+#.idea/*
+npm-debug.log
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db

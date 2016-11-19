@@ -1,0 +1,19 @@
+{
+  "name": "cesiumtest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thedude1979/cesiumTest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thedude1979/cesiumTest/issues"
+  },
+  "homepage": "https://github.com/thedude1979/cesiumTest#readme"
+}
